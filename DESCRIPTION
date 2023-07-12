@@ -3,7 +3,7 @@ Type: Package
 Title: UtilizeData for Exercise 6
 Version: 0.1.0
 Author: Adrian Brenner (12422308)
-Maintainer: Adrian.Brenner
+Maintainer: Adrian Brenner <brenner.adrian.03@gmail.com>
 Description: The "DataUtilization" package contains two functions: impute_missing() for imputing missing values in a dataset and detect_outliers() for identifying outliers in a numeric vector.
 License: None
 Encoding: UTF-8
